@@ -1,0 +1,15 @@
+C:\SB\IntroAI\Asm2c#\Asm2cs\Asm2cs\bin\Release\net6.0\Asm2cs.exe
+C:\SB\IntroAI\Asm2c#\Asm2cs\Asm2cs\bin\Release\net6.0\Asm2cs.deps.json
+C:\SB\IntroAI\Asm2c#\Asm2cs\Asm2cs\bin\Release\net6.0\Asm2cs.runtimeconfig.json
+C:\SB\IntroAI\Asm2c#\Asm2cs\Asm2cs\bin\Release\net6.0\Asm2cs.dll
+C:\SB\IntroAI\Asm2c#\Asm2cs\Asm2cs\bin\Release\net6.0\Asm2cs.pdb
+C:\SB\IntroAI\Asm2c#\Asm2cs\Asm2cs\obj\Release\net6.0\Asm2cs.csproj.AssemblyReference.cache
+C:\SB\IntroAI\Asm2c#\Asm2cs\Asm2cs\obj\Release\net6.0\Asm2cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\SB\IntroAI\Asm2c#\Asm2cs\Asm2cs\obj\Release\net6.0\Asm2cs.AssemblyInfoInputs.cache
+C:\SB\IntroAI\Asm2c#\Asm2cs\Asm2cs\obj\Release\net6.0\Asm2cs.AssemblyInfo.cs
+C:\SB\IntroAI\Asm2c#\Asm2cs\Asm2cs\obj\Release\net6.0\Asm2cs.csproj.CoreCompileInputs.cache
+C:\SB\IntroAI\Asm2c#\Asm2cs\Asm2cs\obj\Release\net6.0\Asm2cs.dll
+C:\SB\IntroAI\Asm2c#\Asm2cs\Asm2cs\obj\Release\net6.0\refint\Asm2cs.dll
+C:\SB\IntroAI\Asm2c#\Asm2cs\Asm2cs\obj\Release\net6.0\Asm2cs.pdb
+C:\SB\IntroAI\Asm2c#\Asm2cs\Asm2cs\obj\Release\net6.0\Asm2cs.genruntimeconfig.cache
+C:\SB\IntroAI\Asm2c#\Asm2cs\Asm2cs\obj\Release\net6.0\ref\Asm2cs.dll
